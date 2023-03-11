@@ -5,6 +5,7 @@ git clone https//github/reposatory.git
 git status
 rm -rf .git
 git status
+git remote -v
 
 //////Steps
 1- Go To GitHub and Create New Reposatory with name XXXXXXXXXXX
